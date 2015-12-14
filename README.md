@@ -23,3 +23,6 @@ node -v
 ```
 sudo apt-get install python-webpy
 ```
+
+#### to run:
+`sudo python server.js 3030`
