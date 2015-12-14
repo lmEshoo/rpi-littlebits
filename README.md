@@ -11,4 +11,8 @@ cd quick2wire-gpio-admin
 make
 sudo make install
 sudo adduser $USER gpio
-npm config set registry http://registry.npmjs.org```
+npm config set registry http://registry.npmjs.org
+mkdir (rpi-little bits dir)
+cd (to that dir)
+npm install pi-gpio
+```
