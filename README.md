@@ -14,8 +14,12 @@ sudo adduser $USER gpio
 npm config set registry http://registry.npmjs.org
 mkdir (rpi-little bits dir)
 cd (to that dir)
-npm install pi-gpio
 curl -sLS https://apt.adafruit.com/add | sudo bash
 sudo apt-get install node
 node -v
+```
+
+###python
+```
+sudo apt-get install python-webpy
 ```
