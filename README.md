@@ -25,4 +25,4 @@ sudo apt-get install python-webpy
 ```
 
 #### to run:
-`sudo python server.js 3030`
+`sudo python server.py 3030`
