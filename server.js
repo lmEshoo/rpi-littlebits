@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-
+''' this is an api to turn on and off a pin '''
 import web
 import RPi.GPIO as GPIO
 
