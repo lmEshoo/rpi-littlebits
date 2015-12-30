@@ -7,6 +7,8 @@ littlebitsPin =11
 GPIO.setmode(GPIO.BOARD)
 GPIO.setup(LedPin, GPIO.OUT)
 GPIO.setup(littlebitsPin, GPIO.OUT)
+#pwm = GPIO.PWM(18, 1000)
+#pwm.start(50) #50%
 
 try:
     while True:
