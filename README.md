@@ -19,8 +19,9 @@ sudo apt-get install python-webpy
 * `pi@<IP>` it will prompt you say yes then type the password
 
 
-###index.html
+###edit index.html
 * change the index.html file to the correct IP address 
 
 ###to run
+the pi runs the following command automatically when it boots
 `sudo python Desktop/server.py 3030`
