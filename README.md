@@ -18,6 +18,10 @@ sudo apt-get install python-webpy
 * make sure in the terminal get the ip of the pi `ifconfig`
 * once connected, you can unplug the monitor 
 
+###edit index.html
+* change the index.html file to the correct IP address 
+
+
 ###ssh to the pi. 
 * `pi@<IP>` it will prompt you say yes then type the password
 
